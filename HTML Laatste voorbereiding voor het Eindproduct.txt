@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jenson - Oorsprong en Geschiedenis</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Jenson</h1>
+		<p>Ontdek de oorsprong en geschiedenis van deze unieke naam</p>
+	</header>
+
+	<main>
+		<section>
+			<h2>Wat betekent Jenson?</h2>
+			<p>Jenson is een Engelse naam die "zoon van Jan" betekent. Het is afgeleid van de naam Johnson, die op zijn beurt weer afgeleid is van de naam John, wat "God is genadig" betekent.</p>
+		</section>
+
+		<section>
+			<h2>Waar komt de naam vandaan?</h2>
+			<p>De naam Jenson is ontstaan in Engeland en werd voor het eerst gebruikt als achternaam voor mensen met de voornaam Jan of Johnson. Later werd de naam ook gebruikt als voornaam.</p>
+		</section>
+
+		<section>
+			<h2>Bekende personen met de naam Jenson</h2>
+			<ul>
+				<li>Jenson Button - een Britse Formule 1-coureur</li>
+				<li>Jenson Brooksby - een Amerikaanse tennisser</li>
+				<li>Jenson Vaughan - een Engelse singer-songwriter</li>
+			</ul>
+		</section>
+	</main>
+
+	<footer>
+		<p>Gemaakt door [jouw naam] - &copy; 2023</p>
+	</footer>
+</body>
+</html>
