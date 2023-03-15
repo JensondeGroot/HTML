@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Afbeelding en link naar Bloody Elbow</title>
+  </head>
+  <body>
+    <a href="https://www.bloodyelbow.com" target="_blank">
+      <img src="jouw_afbeelding.png" alt="jouw afbeelding" width="300" height="300">
+    </a>
+  </body>
+</html>
